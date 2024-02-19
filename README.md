@@ -1,4 +1,4 @@
-![logo](https://github.com/Deepakscripts/Deepakscripts/blob/main/White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.png)
+![logo](https://github.com/Deepakscripts/Deepakscripts/blob/main/Pastel%20Retro%20Welcome%20to%20the%20team%20twitter%20header%20(1).jpg)
 
 <h1 align="center">Hi 👋, I'm Deepak!</h1>
 <h3 align="center">I am passionate MERN Stack developer from India.</h3>
