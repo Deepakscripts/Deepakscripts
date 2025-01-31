@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/agrawaldeepak02" target="blank"><img src="https://img.shields.io/twitter/follow/agrawaldeepak02?logo=twitter&style=for-the-badge" alt="agrawaldeepak02" /></a> </p>
 
-- 🌱 Aspiring Data Scientist pursuing a minor degree in Data Science and Machine Learning**
+- 🌱 Aspiring Data Scientist pursuing a minor degree in Data Science and Machine Learning
 
 - 📫 How to reach me [www.linkedin.com/in/agrawaldeepak05](https://www.linkedin.com/in/agrawaldeepak05)
 
