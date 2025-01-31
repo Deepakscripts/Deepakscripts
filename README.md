@@ -1,7 +1,7 @@
 ![logo](https://github.com/Deepakscripts/Deepakscripts/blob/main/Pastel%20Retro%20Welcome%20to%20the%20team%20twitter%20header%20(1).jpg)
 
 <h1 align="center">Hi 👋, I'm Deepak!</h1>
-<h3 align="center">I am passionate MERN Stack developer from India.</h3>
+<h3 align="center">I am passionate MERN Data Scientist from India.</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
