@@ -1,4 +1,4 @@
-![Deepak Agrawal](https://github.com/Deepakscripts/banner.png)
+
 
 # 👋 Hi, I'm Deepak Agrawal!
 
