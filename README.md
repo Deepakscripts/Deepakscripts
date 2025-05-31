@@ -34,9 +34,8 @@ I am an **aspiring data scientist** with a minor degree in **Data Science & Mach
 ## 💼 Experience
 
 ### **Data Science Intern | ArcelorMittal Nippon Steel India (Sept - Oct 2024)**
-- 📌 Developed an ML model with **LightGBM** to predict iron sheet temperature.
-- 📊 Increased prediction accuracy by **17%** and reduced processing time by **30%**.
-- ☁️ Optimized **ETL pipelines** using **AWS RDS**.
+- 📌Collaborated on **LSTM model** using furnace data; derived business-relevant features (e.g., thickness, cooling rate), and streamlined ETL using SQL and AWS Lambda under mentorship.
+- 📊 Lowered error margin to ±8°C (68%), reduced aggregation lag by 32%, and drove $8K/month in cost savings through operational efficiency in production and reporting.
 
 ### **Web Development Intern | Afame Technologies (May 2024)**
 - 🔥 Built **React.js & TypeScript** front-end applications.
@@ -49,7 +48,7 @@ I am an **aspiring data scientist** with a minor degree in **Data Science & Mach
 ### **[Influencer Insights - AI-Powered YouTube Comment Analysis](https://github.com/Deepakscripts/Influencer-Insights)**
 🔹 **Tech Stack:** Python, Flask, NLP, MLflow, AWS, Docker  
 📌 A **Chrome Extension** that analyzes **YouTube comments** using NLP for audience insights.  
-🔍 **Key Features:** Sentiment Analysis | Comment Summarization | Spam Detection  
+🔍 **Key Features:** Sentiment Analysis | Spam Detection  
 🛠️ **Deployed using:** Flask, AWS (EC2, S3, CodeDeploy), Docker, GitHub Actions
 
 ---
