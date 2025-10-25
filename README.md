@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/Deepakscripts">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=AI+Engineer+%26+Data+Scientist;Building+Intelligent+Systems+that+Learn+and+Reason;Currently+CTO+%40+Code2DBug" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=AI+Engineer+%26+Data+Scientist;Building+Intelligent+Systems+that+Learn+and+Reason;Currently+CTO+%40+Code2DBug" alt="Typing SVG" />
   </a>
 </p>
 
