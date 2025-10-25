@@ -78,7 +78,7 @@ Enhanced client web applications with React + TypeScript, boosting responsivenes
 ### 🎓 Education
 
 **Indian Institute of Technology Mandi**  
-Advanced Certification in Data Science, Deep & Machine Learning (8.2/10)
+Data Science, Deep & Machine Learning (8.2/10)
 
 **Hemchand Yadav University Durg**  
 B.Sc. in Biotechnology (7.5/10)
